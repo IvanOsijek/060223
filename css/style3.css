@@ -10,13 +10,13 @@ div {
     left: 200px;
     
 }
+
 #div-1 {
     background-color: black;
-   
 
 }
 #div-2 {
-    transform: rotate(20);    
+    transform: translate(100px, 20px) scale(0.8) rotate(30deg);
     background-color: tomato;
     opacity: 0.8;
 }
